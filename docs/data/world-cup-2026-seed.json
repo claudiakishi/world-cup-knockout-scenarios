@@ -1,0 +1,3178 @@
+{
+  "schemaVersion": 1,
+  "name": "World Cup 2026 Local Tournament File",
+  "updatedAtUtc": "2026-06-23T14:08:37.841Z",
+  "source": {
+    "name": "openfootball/worldcup.json",
+    "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json",
+    "license": "CC0-1.0",
+    "note": "Public-domain hand-maintained fixture/results snapshot. Not live; update this file or import scores as needed."
+  },
+  "groups": [
+    {
+      "letter": "A",
+      "name": "Group A",
+      "teams": [
+        {
+          "id": 260001,
+          "name": "Mexico",
+          "logo": "",
+          "seedRank": 1
+        },
+        {
+          "id": 260002,
+          "name": "South Africa",
+          "logo": "",
+          "seedRank": 2
+        },
+        {
+          "id": 260003,
+          "name": "South Korea",
+          "logo": "",
+          "seedRank": 3
+        },
+        {
+          "id": 260004,
+          "name": "Czech Republic",
+          "logo": "",
+          "seedRank": 4
+        }
+      ]
+    },
+    {
+      "letter": "B",
+      "name": "Group B",
+      "teams": [
+        {
+          "id": 260005,
+          "name": "Canada",
+          "logo": "",
+          "seedRank": 1
+        },
+        {
+          "id": 260006,
+          "name": "Bosnia & Herzegovina",
+          "logo": "",
+          "seedRank": 2
+        },
+        {
+          "id": 260007,
+          "name": "Qatar",
+          "logo": "",
+          "seedRank": 3
+        },
+        {
+          "id": 260008,
+          "name": "Switzerland",
+          "logo": "",
+          "seedRank": 4
+        }
+      ]
+    },
+    {
+      "letter": "C",
+      "name": "Group C",
+      "teams": [
+        {
+          "id": 260009,
+          "name": "Brazil",
+          "logo": "",
+          "seedRank": 1
+        },
+        {
+          "id": 260010,
+          "name": "Morocco",
+          "logo": "",
+          "seedRank": 2
+        },
+        {
+          "id": 260011,
+          "name": "Haiti",
+          "logo": "",
+          "seedRank": 3
+        },
+        {
+          "id": 260012,
+          "name": "Scotland",
+          "logo": "",
+          "seedRank": 4
+        }
+      ]
+    },
+    {
+      "letter": "D",
+      "name": "Group D",
+      "teams": [
+        {
+          "id": 260013,
+          "name": "USA",
+          "logo": "",
+          "seedRank": 1
+        },
+        {
+          "id": 260014,
+          "name": "Paraguay",
+          "logo": "",
+          "seedRank": 2
+        },
+        {
+          "id": 260015,
+          "name": "Australia",
+          "logo": "",
+          "seedRank": 3
+        },
+        {
+          "id": 260016,
+          "name": "Turkey",
+          "logo": "",
+          "seedRank": 4
+        }
+      ]
+    },
+    {
+      "letter": "E",
+      "name": "Group E",
+      "teams": [
+        {
+          "id": 260017,
+          "name": "Germany",
+          "logo": "",
+          "seedRank": 1
+        },
+        {
+          "id": 260018,
+          "name": "Curaçao",
+          "logo": "",
+          "seedRank": 2
+        },
+        {
+          "id": 260019,
+          "name": "Ivory Coast",
+          "logo": "",
+          "seedRank": 3
+        },
+        {
+          "id": 260020,
+          "name": "Ecuador",
+          "logo": "",
+          "seedRank": 4
+        }
+      ]
+    },
+    {
+      "letter": "F",
+      "name": "Group F",
+      "teams": [
+        {
+          "id": 260021,
+          "name": "Netherlands",
+          "logo": "",
+          "seedRank": 1
+        },
+        {
+          "id": 260022,
+          "name": "Japan",
+          "logo": "",
+          "seedRank": 2
+        },
+        {
+          "id": 260023,
+          "name": "Sweden",
+          "logo": "",
+          "seedRank": 3
+        },
+        {
+          "id": 260024,
+          "name": "Tunisia",
+          "logo": "",
+          "seedRank": 4
+        }
+      ]
+    },
+    {
+      "letter": "G",
+      "name": "Group G",
+      "teams": [
+        {
+          "id": 260025,
+          "name": "Belgium",
+          "logo": "",
+          "seedRank": 1
+        },
+        {
+          "id": 260026,
+          "name": "Egypt",
+          "logo": "",
+          "seedRank": 2
+        },
+        {
+          "id": 260027,
+          "name": "Iran",
+          "logo": "",
+          "seedRank": 3
+        },
+        {
+          "id": 260028,
+          "name": "New Zealand",
+          "logo": "",
+          "seedRank": 4
+        }
+      ]
+    },
+    {
+      "letter": "H",
+      "name": "Group H",
+      "teams": [
+        {
+          "id": 260029,
+          "name": "Spain",
+          "logo": "",
+          "seedRank": 1
+        },
+        {
+          "id": 260030,
+          "name": "Cape Verde",
+          "logo": "",
+          "seedRank": 2
+        },
+        {
+          "id": 260031,
+          "name": "Saudi Arabia",
+          "logo": "",
+          "seedRank": 3
+        },
+        {
+          "id": 260032,
+          "name": "Uruguay",
+          "logo": "",
+          "seedRank": 4
+        }
+      ]
+    },
+    {
+      "letter": "I",
+      "name": "Group I",
+      "teams": [
+        {
+          "id": 260033,
+          "name": "France",
+          "logo": "",
+          "seedRank": 1
+        },
+        {
+          "id": 260034,
+          "name": "Senegal",
+          "logo": "",
+          "seedRank": 2
+        },
+        {
+          "id": 260035,
+          "name": "Iraq",
+          "logo": "",
+          "seedRank": 3
+        },
+        {
+          "id": 260036,
+          "name": "Norway",
+          "logo": "",
+          "seedRank": 4
+        }
+      ]
+    },
+    {
+      "letter": "J",
+      "name": "Group J",
+      "teams": [
+        {
+          "id": 260037,
+          "name": "Argentina",
+          "logo": "",
+          "seedRank": 1
+        },
+        {
+          "id": 260038,
+          "name": "Algeria",
+          "logo": "",
+          "seedRank": 2
+        },
+        {
+          "id": 260039,
+          "name": "Austria",
+          "logo": "",
+          "seedRank": 3
+        },
+        {
+          "id": 260040,
+          "name": "Jordan",
+          "logo": "",
+          "seedRank": 4
+        }
+      ]
+    },
+    {
+      "letter": "K",
+      "name": "Group K",
+      "teams": [
+        {
+          "id": 260041,
+          "name": "Portugal",
+          "logo": "",
+          "seedRank": 1
+        },
+        {
+          "id": 260042,
+          "name": "DR Congo",
+          "logo": "",
+          "seedRank": 2
+        },
+        {
+          "id": 260043,
+          "name": "Uzbekistan",
+          "logo": "",
+          "seedRank": 3
+        },
+        {
+          "id": 260044,
+          "name": "Colombia",
+          "logo": "",
+          "seedRank": 4
+        }
+      ]
+    },
+    {
+      "letter": "L",
+      "name": "Group L",
+      "teams": [
+        {
+          "id": 260045,
+          "name": "England",
+          "logo": "",
+          "seedRank": 1
+        },
+        {
+          "id": 260046,
+          "name": "Croatia",
+          "logo": "",
+          "seedRank": 2
+        },
+        {
+          "id": 260047,
+          "name": "Ghana",
+          "logo": "",
+          "seedRank": 3
+        },
+        {
+          "id": 260048,
+          "name": "Panama",
+          "logo": "",
+          "seedRank": 4
+        }
+      ]
+    }
+  ],
+  "fixtures": [
+    {
+      "id": 2026001,
+      "group": "A",
+      "round": "Matchday 1",
+      "date": "2026-06-11T19:00:00.000Z",
+      "venue": {
+        "name": "Mexico City",
+        "city": "Mexico City"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260001,
+        "name": "Mexico",
+        "logo": ""
+      },
+      "away": {
+        "id": 260002,
+        "name": "South Africa",
+        "logo": ""
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026002,
+      "group": "A",
+      "round": "Matchday 1",
+      "date": "2026-06-12T02:00:00.000Z",
+      "venue": {
+        "name": "Guadalajara (Zapopan)",
+        "city": "Guadalajara"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260003,
+        "name": "South Korea",
+        "logo": ""
+      },
+      "away": {
+        "id": 260004,
+        "name": "Czech Republic",
+        "logo": ""
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026003,
+      "group": "A",
+      "round": "Matchday 8",
+      "date": "2026-06-18T16:00:00.000Z",
+      "venue": {
+        "name": "Atlanta",
+        "city": "Atlanta"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260004,
+        "name": "Czech Republic",
+        "logo": ""
+      },
+      "away": {
+        "id": 260002,
+        "name": "South Africa",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026004,
+      "group": "A",
+      "round": "Matchday 8",
+      "date": "2026-06-19T01:00:00.000Z",
+      "venue": {
+        "name": "Guadalajara (Zapopan)",
+        "city": "Guadalajara"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260001,
+        "name": "Mexico",
+        "logo": ""
+      },
+      "away": {
+        "id": 260003,
+        "name": "South Korea",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026005,
+      "group": "A",
+      "round": "Matchday 14",
+      "date": "2026-06-25T01:00:00.000Z",
+      "venue": {
+        "name": "Mexico City",
+        "city": "Mexico City"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260004,
+        "name": "Czech Republic",
+        "logo": ""
+      },
+      "away": {
+        "id": 260001,
+        "name": "Mexico",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026006,
+      "group": "A",
+      "round": "Matchday 14",
+      "date": "2026-06-25T01:00:00.000Z",
+      "venue": {
+        "name": "Monterrey (Guadalupe)",
+        "city": "Monterrey"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260002,
+        "name": "South Africa",
+        "logo": ""
+      },
+      "away": {
+        "id": 260003,
+        "name": "South Korea",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026007,
+      "group": "B",
+      "round": "Matchday 2",
+      "date": "2026-06-12T19:00:00.000Z",
+      "venue": {
+        "name": "Toronto",
+        "city": "Toronto"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260005,
+        "name": "Canada",
+        "logo": ""
+      },
+      "away": {
+        "id": 260006,
+        "name": "Bosnia & Herzegovina",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026008,
+      "group": "B",
+      "round": "Matchday 3",
+      "date": "2026-06-13T19:00:00.000Z",
+      "venue": {
+        "name": "San Francisco Bay Area (Santa Clara)",
+        "city": "San Francisco Bay Area"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260007,
+        "name": "Qatar",
+        "logo": ""
+      },
+      "away": {
+        "id": 260008,
+        "name": "Switzerland",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026009,
+      "group": "B",
+      "round": "Matchday 8",
+      "date": "2026-06-18T19:00:00.000Z",
+      "venue": {
+        "name": "Los Angeles (Inglewood)",
+        "city": "Los Angeles"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260008,
+        "name": "Switzerland",
+        "logo": ""
+      },
+      "away": {
+        "id": 260006,
+        "name": "Bosnia & Herzegovina",
+        "logo": ""
+      },
+      "goals": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026010,
+      "group": "B",
+      "round": "Matchday 8",
+      "date": "2026-06-18T22:00:00.000Z",
+      "venue": {
+        "name": "Vancouver",
+        "city": "Vancouver"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260005,
+        "name": "Canada",
+        "logo": ""
+      },
+      "away": {
+        "id": 260007,
+        "name": "Qatar",
+        "logo": ""
+      },
+      "goals": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026011,
+      "group": "B",
+      "round": "Matchday 14",
+      "date": "2026-06-24T19:00:00.000Z",
+      "venue": {
+        "name": "Vancouver",
+        "city": "Vancouver"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260008,
+        "name": "Switzerland",
+        "logo": ""
+      },
+      "away": {
+        "id": 260005,
+        "name": "Canada",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026012,
+      "group": "B",
+      "round": "Matchday 14",
+      "date": "2026-06-24T19:00:00.000Z",
+      "venue": {
+        "name": "Seattle",
+        "city": "Seattle"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260006,
+        "name": "Bosnia & Herzegovina",
+        "logo": ""
+      },
+      "away": {
+        "id": 260007,
+        "name": "Qatar",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026013,
+      "group": "C",
+      "round": "Matchday 3",
+      "date": "2026-06-13T22:00:00.000Z",
+      "venue": {
+        "name": "New York/New Jersey (East Rutherford)",
+        "city": "New York/New Jersey"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260009,
+        "name": "Brazil",
+        "logo": ""
+      },
+      "away": {
+        "id": 260010,
+        "name": "Morocco",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026014,
+      "group": "C",
+      "round": "Matchday 3",
+      "date": "2026-06-14T01:00:00.000Z",
+      "venue": {
+        "name": "Boston (Foxborough)",
+        "city": "Boston"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260011,
+        "name": "Haiti",
+        "logo": ""
+      },
+      "away": {
+        "id": 260012,
+        "name": "Scotland",
+        "logo": ""
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026015,
+      "group": "C",
+      "round": "Matchday 9",
+      "date": "2026-06-19T22:00:00.000Z",
+      "venue": {
+        "name": "Boston (Foxborough)",
+        "city": "Boston"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260012,
+        "name": "Scotland",
+        "logo": ""
+      },
+      "away": {
+        "id": 260010,
+        "name": "Morocco",
+        "logo": ""
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026016,
+      "group": "C",
+      "round": "Matchday 9",
+      "date": "2026-06-20T00:30:00.000Z",
+      "venue": {
+        "name": "Philadelphia",
+        "city": "Philadelphia"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260009,
+        "name": "Brazil",
+        "logo": ""
+      },
+      "away": {
+        "id": 260011,
+        "name": "Haiti",
+        "logo": ""
+      },
+      "goals": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026017,
+      "group": "C",
+      "round": "Matchday 14",
+      "date": "2026-06-24T22:00:00.000Z",
+      "venue": {
+        "name": "Miami (Miami Gardens)",
+        "city": "Miami"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260012,
+        "name": "Scotland",
+        "logo": ""
+      },
+      "away": {
+        "id": 260009,
+        "name": "Brazil",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026018,
+      "group": "C",
+      "round": "Matchday 14",
+      "date": "2026-06-24T22:00:00.000Z",
+      "venue": {
+        "name": "Atlanta",
+        "city": "Atlanta"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260010,
+        "name": "Morocco",
+        "logo": ""
+      },
+      "away": {
+        "id": 260011,
+        "name": "Haiti",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026019,
+      "group": "D",
+      "round": "Matchday 2",
+      "date": "2026-06-13T01:00:00.000Z",
+      "venue": {
+        "name": "Los Angeles (Inglewood)",
+        "city": "Los Angeles"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260013,
+        "name": "USA",
+        "logo": ""
+      },
+      "away": {
+        "id": 260014,
+        "name": "Paraguay",
+        "logo": ""
+      },
+      "goals": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026020,
+      "group": "D",
+      "round": "Matchday 3",
+      "date": "2026-06-14T04:00:00.000Z",
+      "venue": {
+        "name": "Vancouver",
+        "city": "Vancouver"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260015,
+        "name": "Australia",
+        "logo": ""
+      },
+      "away": {
+        "id": 260016,
+        "name": "Turkey",
+        "logo": ""
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026021,
+      "group": "D",
+      "round": "Matchday 9",
+      "date": "2026-06-19T19:00:00.000Z",
+      "venue": {
+        "name": "Seattle",
+        "city": "Seattle"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260013,
+        "name": "USA",
+        "logo": ""
+      },
+      "away": {
+        "id": 260015,
+        "name": "Australia",
+        "logo": ""
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026022,
+      "group": "D",
+      "round": "Matchday 9",
+      "date": "2026-06-20T03:00:00.000Z",
+      "venue": {
+        "name": "San Francisco Bay Area (Santa Clara)",
+        "city": "San Francisco Bay Area"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260016,
+        "name": "Turkey",
+        "logo": ""
+      },
+      "away": {
+        "id": 260014,
+        "name": "Paraguay",
+        "logo": ""
+      },
+      "goals": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026023,
+      "group": "D",
+      "round": "Matchday 15",
+      "date": "2026-06-26T02:00:00.000Z",
+      "venue": {
+        "name": "Los Angeles (Inglewood)",
+        "city": "Los Angeles"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260016,
+        "name": "Turkey",
+        "logo": ""
+      },
+      "away": {
+        "id": 260013,
+        "name": "USA",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026024,
+      "group": "D",
+      "round": "Matchday 15",
+      "date": "2026-06-26T02:00:00.000Z",
+      "venue": {
+        "name": "San Francisco Bay Area (Santa Clara)",
+        "city": "San Francisco Bay Area"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260014,
+        "name": "Paraguay",
+        "logo": ""
+      },
+      "away": {
+        "id": 260015,
+        "name": "Australia",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026025,
+      "group": "E",
+      "round": "Matchday 4",
+      "date": "2026-06-14T17:00:00.000Z",
+      "venue": {
+        "name": "Houston",
+        "city": "Houston"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260017,
+        "name": "Germany",
+        "logo": ""
+      },
+      "away": {
+        "id": 260018,
+        "name": "Curaçao",
+        "logo": ""
+      },
+      "goals": {
+        "home": 7,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026026,
+      "group": "E",
+      "round": "Matchday 4",
+      "date": "2026-06-14T23:00:00.000Z",
+      "venue": {
+        "name": "Philadelphia",
+        "city": "Philadelphia"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260019,
+        "name": "Ivory Coast",
+        "logo": ""
+      },
+      "away": {
+        "id": 260020,
+        "name": "Ecuador",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026027,
+      "group": "E",
+      "round": "Matchday 10",
+      "date": "2026-06-20T20:00:00.000Z",
+      "venue": {
+        "name": "Toronto",
+        "city": "Toronto"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260017,
+        "name": "Germany",
+        "logo": ""
+      },
+      "away": {
+        "id": 260019,
+        "name": "Ivory Coast",
+        "logo": ""
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026028,
+      "group": "E",
+      "round": "Matchday 10",
+      "date": "2026-06-21T00:00:00.000Z",
+      "venue": {
+        "name": "Kansas City",
+        "city": "Kansas City"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260020,
+        "name": "Ecuador",
+        "logo": ""
+      },
+      "away": {
+        "id": 260018,
+        "name": "Curaçao",
+        "logo": ""
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026029,
+      "group": "E",
+      "round": "Matchday 15",
+      "date": "2026-06-25T20:00:00.000Z",
+      "venue": {
+        "name": "Philadelphia",
+        "city": "Philadelphia"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260018,
+        "name": "Curaçao",
+        "logo": ""
+      },
+      "away": {
+        "id": 260019,
+        "name": "Ivory Coast",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026030,
+      "group": "E",
+      "round": "Matchday 15",
+      "date": "2026-06-25T20:00:00.000Z",
+      "venue": {
+        "name": "New York/New Jersey (East Rutherford)",
+        "city": "New York/New Jersey"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260020,
+        "name": "Ecuador",
+        "logo": ""
+      },
+      "away": {
+        "id": 260017,
+        "name": "Germany",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026031,
+      "group": "F",
+      "round": "Matchday 4",
+      "date": "2026-06-14T20:00:00.000Z",
+      "venue": {
+        "name": "Dallas (Arlington)",
+        "city": "Dallas"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260021,
+        "name": "Netherlands",
+        "logo": ""
+      },
+      "away": {
+        "id": 260022,
+        "name": "Japan",
+        "logo": ""
+      },
+      "goals": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": 2026032,
+      "group": "F",
+      "round": "Matchday 4",
+      "date": "2026-06-15T02:00:00.000Z",
+      "venue": {
+        "name": "Monterrey (Guadalupe)",
+        "city": "Monterrey"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260023,
+        "name": "Sweden",
+        "logo": ""
+      },
+      "away": {
+        "id": 260024,
+        "name": "Tunisia",
+        "logo": ""
+      },
+      "goals": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026033,
+      "group": "F",
+      "round": "Matchday 10",
+      "date": "2026-06-20T17:00:00.000Z",
+      "venue": {
+        "name": "Houston",
+        "city": "Houston"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260021,
+        "name": "Netherlands",
+        "logo": ""
+      },
+      "away": {
+        "id": 260023,
+        "name": "Sweden",
+        "logo": ""
+      },
+      "goals": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026034,
+      "group": "F",
+      "round": "Matchday 10",
+      "date": "2026-06-21T04:00:00.000Z",
+      "venue": {
+        "name": "Monterrey (Guadalupe)",
+        "city": "Monterrey"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260024,
+        "name": "Tunisia",
+        "logo": ""
+      },
+      "away": {
+        "id": 260022,
+        "name": "Japan",
+        "logo": ""
+      },
+      "goals": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": 2026035,
+      "group": "F",
+      "round": "Matchday 15",
+      "date": "2026-06-25T23:00:00.000Z",
+      "venue": {
+        "name": "Dallas (Arlington)",
+        "city": "Dallas"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260022,
+        "name": "Japan",
+        "logo": ""
+      },
+      "away": {
+        "id": 260023,
+        "name": "Sweden",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026036,
+      "group": "F",
+      "round": "Matchday 15",
+      "date": "2026-06-25T23:00:00.000Z",
+      "venue": {
+        "name": "Kansas City",
+        "city": "Kansas City"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260024,
+        "name": "Tunisia",
+        "logo": ""
+      },
+      "away": {
+        "id": 260021,
+        "name": "Netherlands",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026037,
+      "group": "G",
+      "round": "Matchday 5",
+      "date": "2026-06-15T19:00:00.000Z",
+      "venue": {
+        "name": "Seattle",
+        "city": "Seattle"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260025,
+        "name": "Belgium",
+        "logo": ""
+      },
+      "away": {
+        "id": 260026,
+        "name": "Egypt",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026038,
+      "group": "G",
+      "round": "Matchday 5",
+      "date": "2026-06-16T01:00:00.000Z",
+      "venue": {
+        "name": "Los Angeles (Inglewood)",
+        "city": "Los Angeles"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260027,
+        "name": "Iran",
+        "logo": ""
+      },
+      "away": {
+        "id": 260028,
+        "name": "New Zealand",
+        "logo": ""
+      },
+      "goals": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": 2026039,
+      "group": "G",
+      "round": "Matchday 11",
+      "date": "2026-06-21T19:00:00.000Z",
+      "venue": {
+        "name": "Los Angeles (Inglewood)",
+        "city": "Los Angeles"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260025,
+        "name": "Belgium",
+        "logo": ""
+      },
+      "away": {
+        "id": 260027,
+        "name": "Iran",
+        "logo": ""
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026040,
+      "group": "G",
+      "round": "Matchday 11",
+      "date": "2026-06-22T01:00:00.000Z",
+      "venue": {
+        "name": "Vancouver",
+        "city": "Vancouver"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260028,
+        "name": "New Zealand",
+        "logo": ""
+      },
+      "away": {
+        "id": 260026,
+        "name": "Egypt",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": 2026041,
+      "group": "G",
+      "round": "Matchday 16",
+      "date": "2026-06-27T03:00:00.000Z",
+      "venue": {
+        "name": "Seattle",
+        "city": "Seattle"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260026,
+        "name": "Egypt",
+        "logo": ""
+      },
+      "away": {
+        "id": 260027,
+        "name": "Iran",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026042,
+      "group": "G",
+      "round": "Matchday 16",
+      "date": "2026-06-27T03:00:00.000Z",
+      "venue": {
+        "name": "Vancouver",
+        "city": "Vancouver"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260028,
+        "name": "New Zealand",
+        "logo": ""
+      },
+      "away": {
+        "id": 260025,
+        "name": "Belgium",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026043,
+      "group": "H",
+      "round": "Matchday 5",
+      "date": "2026-06-15T16:00:00.000Z",
+      "venue": {
+        "name": "Atlanta",
+        "city": "Atlanta"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260029,
+        "name": "Spain",
+        "logo": ""
+      },
+      "away": {
+        "id": 260030,
+        "name": "Cape Verde",
+        "logo": ""
+      },
+      "goals": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026044,
+      "group": "H",
+      "round": "Matchday 5",
+      "date": "2026-06-15T22:00:00.000Z",
+      "venue": {
+        "name": "Miami (Miami Gardens)",
+        "city": "Miami"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260031,
+        "name": "Saudi Arabia",
+        "logo": ""
+      },
+      "away": {
+        "id": 260032,
+        "name": "Uruguay",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026045,
+      "group": "H",
+      "round": "Matchday 11",
+      "date": "2026-06-21T16:00:00.000Z",
+      "venue": {
+        "name": "Atlanta",
+        "city": "Atlanta"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260029,
+        "name": "Spain",
+        "logo": ""
+      },
+      "away": {
+        "id": 260031,
+        "name": "Saudi Arabia",
+        "logo": ""
+      },
+      "goals": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026046,
+      "group": "H",
+      "round": "Matchday 11",
+      "date": "2026-06-21T22:00:00.000Z",
+      "venue": {
+        "name": "Miami (Miami Gardens)",
+        "city": "Miami"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260032,
+        "name": "Uruguay",
+        "logo": ""
+      },
+      "away": {
+        "id": 260030,
+        "name": "Cape Verde",
+        "logo": ""
+      },
+      "goals": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": 2026047,
+      "group": "H",
+      "round": "Matchday 16",
+      "date": "2026-06-27T00:00:00.000Z",
+      "venue": {
+        "name": "Houston",
+        "city": "Houston"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260030,
+        "name": "Cape Verde",
+        "logo": ""
+      },
+      "away": {
+        "id": 260031,
+        "name": "Saudi Arabia",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026048,
+      "group": "H",
+      "round": "Matchday 16",
+      "date": "2026-06-27T00:00:00.000Z",
+      "venue": {
+        "name": "Guadalajara (Zapopan)",
+        "city": "Guadalajara"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260032,
+        "name": "Uruguay",
+        "logo": ""
+      },
+      "away": {
+        "id": 260029,
+        "name": "Spain",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026049,
+      "group": "I",
+      "round": "Matchday 6",
+      "date": "2026-06-16T19:00:00.000Z",
+      "venue": {
+        "name": "New York/New Jersey (East Rutherford)",
+        "city": "New York/New Jersey"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260033,
+        "name": "France",
+        "logo": ""
+      },
+      "away": {
+        "id": 260034,
+        "name": "Senegal",
+        "logo": ""
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026050,
+      "group": "I",
+      "round": "Matchday 6",
+      "date": "2026-06-16T22:00:00.000Z",
+      "venue": {
+        "name": "Boston (Foxborough)",
+        "city": "Boston"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260035,
+        "name": "Iraq",
+        "logo": ""
+      },
+      "away": {
+        "id": 260036,
+        "name": "Norway",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": 2026051,
+      "group": "I",
+      "round": "Matchday 12",
+      "date": "2026-06-22T21:00:00.000Z",
+      "venue": {
+        "name": "Philadelphia",
+        "city": "Philadelphia"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260033,
+        "name": "France",
+        "logo": ""
+      },
+      "away": {
+        "id": 260035,
+        "name": "Iraq",
+        "logo": ""
+      },
+      "goals": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026052,
+      "group": "I",
+      "round": "Matchday 12",
+      "date": "2026-06-23T00:00:00.000Z",
+      "venue": {
+        "name": "New York/New Jersey (East Rutherford)",
+        "city": "New York/New Jersey"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260036,
+        "name": "Norway",
+        "logo": ""
+      },
+      "away": {
+        "id": 260034,
+        "name": "Senegal",
+        "logo": ""
+      },
+      "goals": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": 2026053,
+      "group": "I",
+      "round": "Matchday 16",
+      "date": "2026-06-26T19:00:00.000Z",
+      "venue": {
+        "name": "Boston (Foxborough)",
+        "city": "Boston"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260036,
+        "name": "Norway",
+        "logo": ""
+      },
+      "away": {
+        "id": 260033,
+        "name": "France",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026054,
+      "group": "I",
+      "round": "Matchday 16",
+      "date": "2026-06-26T19:00:00.000Z",
+      "venue": {
+        "name": "Toronto",
+        "city": "Toronto"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260034,
+        "name": "Senegal",
+        "logo": ""
+      },
+      "away": {
+        "id": 260035,
+        "name": "Iraq",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026055,
+      "group": "J",
+      "round": "Matchday 6",
+      "date": "2026-06-17T01:00:00.000Z",
+      "venue": {
+        "name": "Kansas City",
+        "city": "Kansas City"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260037,
+        "name": "Argentina",
+        "logo": ""
+      },
+      "away": {
+        "id": 260038,
+        "name": "Algeria",
+        "logo": ""
+      },
+      "goals": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026056,
+      "group": "J",
+      "round": "Matchday 6",
+      "date": "2026-06-17T04:00:00.000Z",
+      "venue": {
+        "name": "San Francisco Bay Area (Santa Clara)",
+        "city": "San Francisco Bay Area"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260039,
+        "name": "Austria",
+        "logo": ""
+      },
+      "away": {
+        "id": 260040,
+        "name": "Jordan",
+        "logo": ""
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026057,
+      "group": "J",
+      "round": "Matchday 12",
+      "date": "2026-06-22T17:00:00.000Z",
+      "venue": {
+        "name": "Dallas (Arlington)",
+        "city": "Dallas"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260037,
+        "name": "Argentina",
+        "logo": ""
+      },
+      "away": {
+        "id": 260039,
+        "name": "Austria",
+        "logo": ""
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026058,
+      "group": "J",
+      "round": "Matchday 12",
+      "date": "2026-06-23T03:00:00.000Z",
+      "venue": {
+        "name": "San Francisco Bay Area (Santa Clara)",
+        "city": "San Francisco Bay Area"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260040,
+        "name": "Jordan",
+        "logo": ""
+      },
+      "away": {
+        "id": 260038,
+        "name": "Algeria",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": 2026059,
+      "group": "J",
+      "round": "Matchday 17",
+      "date": "2026-06-28T02:00:00.000Z",
+      "venue": {
+        "name": "Kansas City",
+        "city": "Kansas City"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260038,
+        "name": "Algeria",
+        "logo": ""
+      },
+      "away": {
+        "id": 260039,
+        "name": "Austria",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026060,
+      "group": "J",
+      "round": "Matchday 17",
+      "date": "2026-06-28T02:00:00.000Z",
+      "venue": {
+        "name": "Dallas (Arlington)",
+        "city": "Dallas"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260040,
+        "name": "Jordan",
+        "logo": ""
+      },
+      "away": {
+        "id": 260037,
+        "name": "Argentina",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026061,
+      "group": "K",
+      "round": "Matchday 7",
+      "date": "2026-06-17T17:00:00.000Z",
+      "venue": {
+        "name": "Houston",
+        "city": "Houston"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260041,
+        "name": "Portugal",
+        "logo": ""
+      },
+      "away": {
+        "id": 260042,
+        "name": "DR Congo",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": 2026062,
+      "group": "K",
+      "round": "Matchday 7",
+      "date": "2026-06-18T02:00:00.000Z",
+      "venue": {
+        "name": "Mexico City",
+        "city": "Mexico City"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260043,
+        "name": "Uzbekistan",
+        "logo": ""
+      },
+      "away": {
+        "id": 260044,
+        "name": "Colombia",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": 2026063,
+      "group": "K",
+      "round": "Matchday 13",
+      "date": "2026-06-23T17:00:00.000Z",
+      "venue": {
+        "name": "Houston",
+        "city": "Houston"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260041,
+        "name": "Portugal",
+        "logo": ""
+      },
+      "away": {
+        "id": 260043,
+        "name": "Uzbekistan",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026064,
+      "group": "K",
+      "round": "Matchday 13",
+      "date": "2026-06-24T02:00:00.000Z",
+      "venue": {
+        "name": "Guadalajara (Zapopan)",
+        "city": "Guadalajara"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260044,
+        "name": "Colombia",
+        "logo": ""
+      },
+      "away": {
+        "id": 260042,
+        "name": "DR Congo",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026065,
+      "group": "K",
+      "round": "Matchday 17",
+      "date": "2026-06-27T23:30:00.000Z",
+      "venue": {
+        "name": "Miami (Miami Gardens)",
+        "city": "Miami"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260044,
+        "name": "Colombia",
+        "logo": ""
+      },
+      "away": {
+        "id": 260041,
+        "name": "Portugal",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026066,
+      "group": "K",
+      "round": "Matchday 17",
+      "date": "2026-06-27T23:30:00.000Z",
+      "venue": {
+        "name": "Atlanta",
+        "city": "Atlanta"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260042,
+        "name": "DR Congo",
+        "logo": ""
+      },
+      "away": {
+        "id": 260043,
+        "name": "Uzbekistan",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026067,
+      "group": "L",
+      "round": "Matchday 7",
+      "date": "2026-06-17T20:00:00.000Z",
+      "venue": {
+        "name": "Dallas (Arlington)",
+        "city": "Dallas"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260045,
+        "name": "England",
+        "logo": ""
+      },
+      "away": {
+        "id": 260046,
+        "name": "Croatia",
+        "logo": ""
+      },
+      "goals": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": 2026068,
+      "group": "L",
+      "round": "Matchday 7",
+      "date": "2026-06-17T23:00:00.000Z",
+      "venue": {
+        "name": "Toronto",
+        "city": "Toronto"
+      },
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
+      "home": {
+        "id": 260047,
+        "name": "Ghana",
+        "logo": ""
+      },
+      "away": {
+        "id": 260048,
+        "name": "Panama",
+        "logo": ""
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": 2026069,
+      "group": "L",
+      "round": "Matchday 13",
+      "date": "2026-06-23T20:00:00.000Z",
+      "venue": {
+        "name": "Boston (Foxborough)",
+        "city": "Boston"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260045,
+        "name": "England",
+        "logo": ""
+      },
+      "away": {
+        "id": 260047,
+        "name": "Ghana",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026070,
+      "group": "L",
+      "round": "Matchday 13",
+      "date": "2026-06-23T23:00:00.000Z",
+      "venue": {
+        "name": "Toronto",
+        "city": "Toronto"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260048,
+        "name": "Panama",
+        "logo": ""
+      },
+      "away": {
+        "id": 260046,
+        "name": "Croatia",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026071,
+      "group": "L",
+      "round": "Matchday 17",
+      "date": "2026-06-27T21:00:00.000Z",
+      "venue": {
+        "name": "New York/New Jersey (East Rutherford)",
+        "city": "New York/New Jersey"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260048,
+        "name": "Panama",
+        "logo": ""
+      },
+      "away": {
+        "id": 260045,
+        "name": "England",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    },
+    {
+      "id": 2026072,
+      "group": "L",
+      "round": "Matchday 17",
+      "date": "2026-06-27T21:00:00.000Z",
+      "venue": {
+        "name": "Philadelphia",
+        "city": "Philadelphia"
+      },
+      "statusShort": "NS",
+      "statusLong": "Not Started",
+      "home": {
+        "id": 260046,
+        "name": "Croatia",
+        "logo": ""
+      },
+      "away": {
+        "id": 260047,
+        "name": "Ghana",
+        "logo": ""
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      }
+    }
+  ],
+  "staticExport": {
+    "exportedAtUtc": "2026-06-23T14:08:38.239Z",
+    "note": "GitHub Pages snapshot. Rebuilt by scheduled workflow; odds evidence includes per-fixture stale metadata."
+  },
+  "predictions": {
+    "2026005": {
+      "home": 1,
+      "away": 2,
+      "source": "odds"
+    },
+    "2026006": {
+      "home": 1,
+      "away": 2,
+      "source": "odds"
+    },
+    "2026011": {
+      "home": 2,
+      "away": 1,
+      "source": "odds"
+    },
+    "2026012": {
+      "home": 2,
+      "away": 1,
+      "source": "odds"
+    },
+    "2026017": {
+      "home": 1,
+      "away": 2,
+      "source": "odds"
+    },
+    "2026018": {
+      "home": 3,
+      "away": 1,
+      "source": "odds"
+    },
+    "2026023": {
+      "home": 1,
+      "away": 2,
+      "source": "odds"
+    },
+    "2026024": {
+      "home": 1,
+      "away": 1,
+      "source": "odds"
+    },
+    "2026029": {
+      "home": 0,
+      "away": 3,
+      "source": "odds"
+    },
+    "2026030": {
+      "home": 1,
+      "away": 2,
+      "source": "odds"
+    },
+    "2026035": {
+      "home": 2,
+      "away": 1,
+      "source": "odds"
+    },
+    "2026036": {
+      "home": 0,
+      "away": 3,
+      "source": "odds"
+    },
+    "2026041": {
+      "home": 2,
+      "away": 1,
+      "source": "odds"
+    },
+    "2026042": {
+      "home": 0,
+      "away": 2,
+      "source": "odds"
+    },
+    "2026047": {
+      "home": 2,
+      "away": 1,
+      "source": "odds"
+    },
+    "2026048": {
+      "home": 1,
+      "away": 2,
+      "source": "odds"
+    },
+    "2026053": {
+      "home": 1,
+      "away": 2,
+      "source": "odds"
+    },
+    "2026054": {
+      "home": 2,
+      "away": 0,
+      "source": "odds"
+    },
+    "2026059": {
+      "home": 1,
+      "away": 1,
+      "source": "odds"
+    },
+    "2026060": {
+      "home": 0,
+      "away": 2,
+      "source": "odds"
+    },
+    "2026063": {
+      "home": 3,
+      "away": 0,
+      "source": "odds"
+    },
+    "2026064": {
+      "home": 2,
+      "away": 1,
+      "source": "odds"
+    },
+    "2026065": {
+      "home": 1,
+      "away": 2,
+      "source": "odds"
+    },
+    "2026066": {
+      "home": 2,
+      "away": 1,
+      "source": "odds"
+    },
+    "2026069": {
+      "home": 2,
+      "away": 0,
+      "source": "odds"
+    },
+    "2026070": {
+      "home": 1,
+      "away": 2,
+      "source": "odds"
+    },
+    "2026071": {
+      "home": 1,
+      "away": 2,
+      "source": "odds"
+    },
+    "2026072": {
+      "home": 2,
+      "away": 1,
+      "source": "odds"
+    }
+  },
+  "marketEvidence": {
+    "2026005": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.497,
+      "probabilities": {
+        "home": 0.254,
+        "draw": 0.249,
+        "away": 0.497
+      },
+      "expectedGoals": {
+        "home": 1,
+        "away": 1.5
+      },
+      "totalGoalsLine": 2.45,
+      "goalDifferenceLine": -0.46,
+      "bookmakerCount": 49,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "5993bd5196ca09f83990f0c3261e442e"
+        }
+      }
+    },
+    "2026006": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.58,
+      "probabilities": {
+        "home": 0.173,
+        "draw": 0.247,
+        "away": 0.58
+      },
+      "expectedGoals": {
+        "home": 0.75,
+        "away": 1.65
+      },
+      "totalGoalsLine": 2.42,
+      "goalDifferenceLine": -0.9,
+      "bookmakerCount": 48,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "c0355dfc6e26ec327e379b6ef5824a5f"
+        }
+      }
+    },
+    "2026011": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.398,
+      "probabilities": {
+        "home": 0.398,
+        "draw": 0.313,
+        "away": 0.29
+      },
+      "expectedGoals": {
+        "home": 1.3,
+        "away": 1.1
+      },
+      "totalGoalsLine": 2.4,
+      "goalDifferenceLine": 0.2,
+      "bookmakerCount": 49,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "c9ef5822ee64fd5275f7c73251bb56c7"
+        }
+      }
+    },
+    "2026012": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.679,
+      "probabilities": {
+        "home": 0.679,
+        "draw": 0.188,
+        "away": 0.132
+      },
+      "expectedGoals": {
+        "home": 2,
+        "away": 0.75
+      },
+      "totalGoalsLine": 2.75,
+      "goalDifferenceLine": 1.26,
+      "bookmakerCount": 49,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "512ac18beb5aa936a59f7ea3e497ada2"
+        }
+      }
+    },
+    "2026017": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.694,
+      "probabilities": {
+        "home": 0.12,
+        "draw": 0.186,
+        "away": 0.694
+      },
+      "expectedGoals": {
+        "home": 0.6,
+        "away": 1.95
+      },
+      "totalGoalsLine": 2.53,
+      "goalDifferenceLine": -1.35,
+      "bookmakerCount": 49,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "885ba95805db310a7bcc3fb1a7a6dd28"
+        }
+      }
+    },
+    "2026018": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.809,
+      "probabilities": {
+        "home": 0.809,
+        "draw": 0.133,
+        "away": 0.058
+      },
+      "expectedGoals": {
+        "home": 2.6,
+        "away": 0.55
+      },
+      "totalGoalsLine": 3.16,
+      "goalDifferenceLine": 2.1,
+      "bookmakerCount": 49,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "d1279ce7f33136a33e99ad442fc855e8"
+        }
+      }
+    },
+    "2026023": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.496,
+      "probabilities": {
+        "home": 0.267,
+        "draw": 0.237,
+        "away": 0.496
+      },
+      "expectedGoals": {
+        "home": 1.05,
+        "away": 1.55
+      },
+      "totalGoalsLine": 2.61,
+      "goalDifferenceLine": -0.46,
+      "bookmakerCount": 48,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "f41aeac9a8343a84b4950f15ea25fba2"
+        }
+      }
+    },
+    "2026024": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.424,
+      "probabilities": {
+        "home": 0.332,
+        "draw": 0.424,
+        "away": 0.243
+      },
+      "expectedGoals": {
+        "home": 0.9,
+        "away": 0.75
+      },
+      "totalGoalsLine": 1.79,
+      "goalDifferenceLine": 0.13,
+      "bookmakerCount": 48,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "22f6ac06dfcc88a847920f62633e6459"
+        }
+      }
+    },
+    "2026029": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.832,
+      "probabilities": {
+        "home": 0.053,
+        "draw": 0.116,
+        "away": 0.832
+      },
+      "expectedGoals": {
+        "home": 0.5,
+        "away": 2.7
+      },
+      "totalGoalsLine": 3.2,
+      "goalDifferenceLine": -2.21,
+      "bookmakerCount": 48,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "a5a0b544a984ab16e564264f3e859b43"
+        }
+      }
+    },
+    "2026030": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.503,
+      "probabilities": {
+        "home": 0.255,
+        "draw": 0.242,
+        "away": 0.503
+      },
+      "expectedGoals": {
+        "home": 1.05,
+        "away": 1.55
+      },
+      "totalGoalsLine": 2.55,
+      "goalDifferenceLine": -0.46,
+      "bookmakerCount": 48,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "0ec28b84ec399bd4dffbe8d1bc72b3c4"
+        }
+      }
+    },
+    "2026035": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.494,
+      "probabilities": {
+        "home": 0.494,
+        "draw": 0.277,
+        "away": 0.229
+      },
+      "expectedGoals": {
+        "home": 1.55,
+        "away": 1
+      },
+      "totalGoalsLine": 2.58,
+      "goalDifferenceLine": 0.46,
+      "bookmakerCount": 48,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "0ed0233bddc4eafc8507f86a9c17b998"
+        }
+      }
+    },
+    "2026036": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.849,
+      "probabilities": {
+        "home": 0.044,
+        "draw": 0.107,
+        "away": 0.849
+      },
+      "expectedGoals": {
+        "home": 0.45,
+        "away": 2.8
+      },
+      "totalGoalsLine": 3.25,
+      "goalDifferenceLine": -2.34,
+      "bookmakerCount": 47,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "f3c4657daa143a0c5bd62cb370d01ce4"
+        }
+      }
+    },
+    "2026041": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.391,
+      "probabilities": {
+        "home": 0.391,
+        "draw": 0.352,
+        "away": 0.256
+      },
+      "expectedGoals": {
+        "home": 1,
+        "away": 0.75
+      },
+      "totalGoalsLine": 1.79,
+      "goalDifferenceLine": 0.22,
+      "bookmakerCount": 45,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "3e3b5fa2b3c963e74cf044c60db0b573"
+        }
+      }
+    },
+    "2026042": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.797,
+      "probabilities": {
+        "home": 0.067,
+        "draw": 0.136,
+        "away": 0.797
+      },
+      "expectedGoals": {
+        "home": 0.45,
+        "away": 2.3
+      },
+      "totalGoalsLine": 2.76,
+      "goalDifferenceLine": -1.85,
+      "bookmakerCount": 45,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "581691da05dcd75b5c6d3be91ee9d2ab"
+        }
+      }
+    },
+    "2026047": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.405,
+      "probabilities": {
+        "home": 0.405,
+        "draw": 0.273,
+        "away": 0.322
+      },
+      "expectedGoals": {
+        "home": 1.35,
+        "away": 1.15
+      },
+      "totalGoalsLine": 2.47,
+      "goalDifferenceLine": 0.21,
+      "bookmakerCount": 47,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "e07b1926be5a4d515c7eb108dbcee9c5"
+        }
+      }
+    },
+    "2026048": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.64,
+      "probabilities": {
+        "home": 0.136,
+        "draw": 0.224,
+        "away": 0.64
+      },
+      "expectedGoals": {
+        "home": 0.7,
+        "away": 1.8
+      },
+      "totalGoalsLine": 2.53,
+      "goalDifferenceLine": -1.11,
+      "bookmakerCount": 47,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "dcff2e31c0bce001a4db5caaf4fa8822"
+        }
+      }
+    },
+    "2026053": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.572,
+      "probabilities": {
+        "home": 0.198,
+        "draw": 0.23,
+        "away": 0.572
+      },
+      "expectedGoals": {
+        "home": 0.95,
+        "away": 1.75
+      },
+      "totalGoalsLine": 2.66,
+      "goalDifferenceLine": -0.79,
+      "bookmakerCount": 47,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "b86b4d60f773e9e3c46c00e9a6496e79"
+        }
+      }
+    },
+    "2026054": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.767,
+      "probabilities": {
+        "home": 0.767,
+        "draw": 0.154,
+        "away": 0.079
+      },
+      "expectedGoals": {
+        "home": 2.2,
+        "away": 0.5
+      },
+      "totalGoalsLine": 2.74,
+      "goalDifferenceLine": 1.68,
+      "bookmakerCount": 47,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "7e6aee294ea1a4792c59558791084528"
+        }
+      }
+    },
+    "2026059": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.396,
+      "probabilities": {
+        "home": 0.252,
+        "draw": 0.396,
+        "away": 0.352
+      },
+      "expectedGoals": {
+        "home": 1,
+        "away": 1.2
+      },
+      "totalGoalsLine": 2.29,
+      "goalDifferenceLine": -0.21,
+      "bookmakerCount": 42,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "8756200e539155e571557c4f2e0d7f05"
+        }
+      }
+    },
+    "2026060": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.789,
+      "probabilities": {
+        "home": 0.069,
+        "draw": 0.142,
+        "away": 0.789
+      },
+      "expectedGoals": {
+        "home": 0.45,
+        "away": 2.3
+      },
+      "totalGoalsLine": 2.74,
+      "goalDifferenceLine": -1.82,
+      "bookmakerCount": 42,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "54697f453437ab26276d773be1d72e9b"
+        }
+      }
+    },
+    "2026063": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.823,
+      "probabilities": {
+        "home": 0.823,
+        "draw": 0.126,
+        "away": 0.051
+      },
+      "expectedGoals": {
+        "home": 2.65,
+        "away": 0.5
+      },
+      "totalGoalsLine": 3.18,
+      "goalDifferenceLine": 2.19,
+      "bookmakerCount": 49,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "8ba93d190f1f934e33862a97a6353a6e"
+        }
+      }
+    },
+    "2026064": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.61,
+      "probabilities": {
+        "home": 0.61,
+        "draw": 0.248,
+        "away": 0.141
+      },
+      "expectedGoals": {
+        "home": 1.65,
+        "away": 0.65
+      },
+      "totalGoalsLine": 2.35,
+      "goalDifferenceLine": 0.99,
+      "bookmakerCount": 47,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "68bfc965eb267508e04d8e8d75c1a0ae"
+        }
+      }
+    },
+    "2026065": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.465,
+      "probabilities": {
+        "home": 0.261,
+        "draw": 0.274,
+        "away": 0.465
+      },
+      "expectedGoals": {
+        "home": 1,
+        "away": 1.45
+      },
+      "totalGoalsLine": 2.41,
+      "goalDifferenceLine": -0.48,
+      "bookmakerCount": 41,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "67ae5751c401a98409b8566ae4897069"
+        }
+      }
+    },
+    "2026066": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.458,
+      "probabilities": {
+        "home": 0.458,
+        "draw": 0.263,
+        "away": 0.279
+      },
+      "expectedGoals": {
+        "home": 1.4,
+        "away": 1.05
+      },
+      "totalGoalsLine": 2.41,
+      "goalDifferenceLine": 0.36,
+      "bookmakerCount": 41,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "13eab94a136b9c264ba974cf437a5f71"
+        }
+      }
+    },
+    "2026069": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.794,
+      "probabilities": {
+        "home": 0.794,
+        "draw": 0.145,
+        "away": 0.061
+      },
+      "expectedGoals": {
+        "home": 2.3,
+        "away": 0.45
+      },
+      "totalGoalsLine": 2.77,
+      "goalDifferenceLine": 1.82,
+      "bookmakerCount": 49,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "2f49dd8deae3079dc4eb2d634d18a99c"
+        }
+      }
+    },
+    "2026070": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.629,
+      "probabilities": {
+        "home": 0.141,
+        "draw": 0.231,
+        "away": 0.629
+      },
+      "expectedGoals": {
+        "home": 0.75,
+        "away": 1.85
+      },
+      "totalGoalsLine": 2.6,
+      "goalDifferenceLine": -1.11,
+      "bookmakerCount": 49,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "c1bc8c26480cd42b89a0de5329581314"
+        }
+      }
+    },
+    "2026071": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.785,
+      "probabilities": {
+        "home": 0.077,
+        "draw": 0.139,
+        "away": 0.785
+      },
+      "expectedGoals": {
+        "home": 0.55,
+        "away": 2.4
+      },
+      "totalGoalsLine": 2.95,
+      "goalDifferenceLine": -1.83,
+      "bookmakerCount": 43,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "4be17c8e1ccfecb0f2a5ef79e045c415"
+        }
+      }
+    },
+    "2026072": {
+      "marketUsed": "1x2_totals_spread",
+      "confidence": "medium",
+      "probability": 0.58,
+      "probabilities": {
+        "home": 0.58,
+        "draw": 0.257,
+        "away": 0.163
+      },
+      "expectedGoals": {
+        "home": 1.65,
+        "away": 0.75
+      },
+      "totalGoalsLine": 2.43,
+      "goalDifferenceLine": 0.9,
+      "bookmakerCount": 43,
+      "fallbackUsed": true,
+      "topCorrectScores": null,
+      "updatedAtUtc": "2026-06-23T09:26:32.288Z",
+      "staleAfterMs": 32400000,
+      "stale": false,
+      "providers": {
+        "theOddsApi": {
+          "eventId": "537c0997cd899394f47f16545b7068b2"
+        }
+      }
+    }
+  },
+  "oddsUnavailable": [],
+  "providerStatus": {
+    "theOddsApi": {
+      "ok": true,
+      "error": null
+    },
+    "oddsApiIo": {
+      "ok": true,
+      "error": null,
+      "skipped": "fresh cache"
+    }
+  },
+  "predictionSource": {
+    "name": "sportsbook-sentiment aggregate",
+    "generatedBy": "world-cup-explorer odds refresh",
+    "marketsUsed": [
+      "Correct Score",
+      "1X2",
+      "totals",
+      "spread"
+    ],
+    "booksOrApis": [
+      "The Odds API",
+      "Odds-API.io"
+    ]
+  },
+  "predictionsExportedAtUtc": "2026-06-23T14:08:38.239Z"
+}
