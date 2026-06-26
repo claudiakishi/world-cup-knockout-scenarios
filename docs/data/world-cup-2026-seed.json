@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "World Cup 2026 Local Tournament File",
-  "updatedAtUtc": "2026-06-26T20:58:28.298Z",
+  "updatedAtUtc": "2026-06-26T22:35:58.568Z",
   "source": {
     "name": "openfootball/worldcup.json",
     "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json",
@@ -1732,8 +1732,8 @@
         "name": "Boston (Foxborough)",
         "city": "Boston"
       },
-      "statusShort": "NS",
-      "statusLong": "Not Started",
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
       "home": {
         "id": 260036,
         "name": "Norway",
@@ -1745,8 +1745,8 @@
         "logo": ""
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 4
       }
     },
     {
@@ -1758,8 +1758,8 @@
         "name": "Toronto",
         "city": "Toronto"
       },
-      "statusShort": "NS",
-      "statusLong": "Not Started",
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
       "home": {
         "id": 260034,
         "name": "Senegal",
@@ -1771,8 +1771,8 @@
         "logo": ""
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 5,
+        "away": 0
       }
     },
     {
@@ -2245,7 +2245,7 @@
     }
   ],
   "staticExport": {
-    "exportedAtUtc": "2026-06-26T20:58:28.984Z",
+    "exportedAtUtc": "2026-06-26T22:35:58.737Z",
     "note": "GitHub Pages snapshot. Rebuilt by scheduled workflow; odds evidence includes per-fixture stale metadata."
   },
   "predictions": {
@@ -2267,16 +2267,6 @@
     "2026048": {
       "home": 1,
       "away": 2,
-      "source": "odds"
-    },
-    "2026053": {
-      "home": 2,
-      "away": 2,
-      "source": "odds"
-    },
-    "2026054": {
-      "home": 3,
-      "away": 4,
       "source": "odds"
     },
     "2026059": {
@@ -2416,60 +2406,6 @@
       "providers": {
         "theOddsApi": {
           "eventId": "dcff2e31c0bce001a4db5caaf4fa8822"
-        }
-      }
-    },
-    "2026053": {
-      "marketUsed": "1x2_totals_spread",
-      "confidence": "medium",
-      "probability": 0.398,
-      "probabilities": {
-        "home": 0.386,
-        "draw": 0.398,
-        "away": 0.216
-      },
-      "expectedGoals": {
-        "home": 1.9,
-        "away": 2.5
-      },
-      "totalGoalsLine": 4.39,
-      "goalDifferenceLine": -1.7,
-      "bookmakerCount": 18,
-      "fallbackUsed": true,
-      "topCorrectScores": null,
-      "updatedAtUtc": "2026-06-26T20:58:28.305Z",
-      "staleAfterMs": 32400000,
-      "stale": false,
-      "providers": {
-        "theOddsApi": {
-          "eventId": "b86b4d60f773e9e3c46c00e9a6496e79"
-        }
-      }
-    },
-    "2026054": {
-      "marketUsed": "1x2_totals_spread",
-      "confidence": "medium",
-      "probability": 0.414,
-      "probabilities": {
-        "home": 0.185,
-        "draw": 0.401,
-        "away": 0.414
-      },
-      "expectedGoals": {
-        "home": 3.15,
-        "away": 1.4
-      },
-      "totalGoalsLine": 5.26,
-      "goalDifferenceLine": 3.81,
-      "bookmakerCount": 9,
-      "fallbackUsed": true,
-      "topCorrectScores": null,
-      "updatedAtUtc": "2026-06-26T20:58:28.305Z",
-      "staleAfterMs": 32400000,
-      "stale": false,
-      "providers": {
-        "theOddsApi": {
-          "eventId": "7e6aee294ea1a4792c59558791084528"
         }
       }
     },
@@ -2643,8 +2579,9 @@
       "error": null
     },
     "oddsApiIo": {
-      "ok": false,
-      "error": "No Odds-API.io events matched eligible fixtures."
+      "ok": true,
+      "error": null,
+      "skipped": "fresh cache"
     }
   },
   "predictionSource": {
@@ -2661,5 +2598,5 @@
       "Odds-API.io"
     ]
   },
-  "predictionsExportedAtUtc": "2026-06-26T20:58:28.984Z"
+  "predictionsExportedAtUtc": "2026-06-26T22:35:58.737Z"
 }
