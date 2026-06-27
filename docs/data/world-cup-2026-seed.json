@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "World Cup 2026 Local Tournament File",
-  "updatedAtUtc": "2026-06-27T00:20:22.469Z",
+  "updatedAtUtc": "2026-06-27T05:03:47.578Z",
   "source": {
     "name": "openfootball/worldcup.json",
     "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json",
@@ -1576,8 +1576,8 @@
         "name": "Houston",
         "city": "Houston"
       },
-      "statusShort": "NS",
-      "statusLong": "Not Started",
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
       "home": {
         "id": 260030,
         "name": "Cape Verde",
@@ -1589,8 +1589,8 @@
         "logo": ""
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       }
     },
     {
@@ -1602,8 +1602,8 @@
         "name": "Guadalajara (Zapopan)",
         "city": "Guadalajara"
       },
-      "statusShort": "NS",
-      "statusLong": "Not Started",
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
       "home": {
         "id": 260032,
         "name": "Uruguay",
@@ -1615,8 +1615,8 @@
         "logo": ""
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       }
     },
     {
@@ -2245,27 +2245,17 @@
     }
   ],
   "staticExport": {
-    "exportedAtUtc": "2026-06-27T00:20:22.617Z",
+    "exportedAtUtc": "2026-06-27T05:03:48.239Z",
     "note": "GitHub Pages snapshot. Rebuilt by scheduled workflow; odds evidence includes per-fixture stale metadata."
   },
   "predictions": {
     "2026041": {
-      "home": 2,
+      "home": 1,
       "away": 1,
       "source": "odds"
     },
     "2026042": {
-      "home": 1,
-      "away": 3,
-      "source": "odds"
-    },
-    "2026047": {
       "home": 2,
-      "away": 1,
-      "source": "odds"
-    },
-    "2026048": {
-      "home": 1,
       "away": 2,
       "source": "odds"
     },
@@ -2276,7 +2266,7 @@
     },
     "2026060": {
       "home": 1,
-      "away": 2,
+      "away": 3,
       "source": "odds"
     },
     "2026065": {
@@ -2304,22 +2294,22 @@
     "2026041": {
       "marketUsed": "1x2_totals_spread",
       "confidence": "medium",
-      "probability": 0.387,
+      "probability": 0.498,
       "probabilities": {
-        "home": 0.387,
-        "draw": 0.361,
-        "away": 0.251
+        "home": 0.133,
+        "draw": 0.498,
+        "away": 0.37
       },
       "expectedGoals": {
-        "home": 1,
-        "away": 0.75
+        "home": 1.1,
+        "away": 1.5
       },
-      "totalGoalsLine": 1.83,
-      "goalDifferenceLine": 0.29,
-      "bookmakerCount": 47,
+      "totalGoalsLine": 2.77,
+      "goalDifferenceLine": -0.34,
+      "bookmakerCount": 27,
       "fallbackUsed": true,
       "topCorrectScores": null,
-      "updatedAtUtc": "2026-06-26T20:58:28.305Z",
+      "updatedAtUtc": "2026-06-27T05:03:47.584Z",
       "staleAfterMs": 32400000,
       "stale": false,
       "providers": {
@@ -2331,22 +2321,22 @@
     "2026042": {
       "marketUsed": "1x2_totals_spread",
       "confidence": "medium",
-      "probability": 0.807,
+      "probability": 0.49,
       "probabilities": {
-        "home": 0.069,
-        "draw": 0.124,
-        "away": 0.807
+        "home": 0.436,
+        "draw": 0.49,
+        "away": 0.074
       },
       "expectedGoals": {
-        "home": 0.65,
-        "away": 2.85
+        "home": 2,
+        "away": 2.35
       },
-      "totalGoalsLine": 3.52,
-      "goalDifferenceLine": -2.23,
-      "bookmakerCount": 47,
+      "totalGoalsLine": 5.29,
+      "goalDifferenceLine": -1.71,
+      "bookmakerCount": 9,
       "fallbackUsed": true,
       "topCorrectScores": null,
-      "updatedAtUtc": "2026-06-26T20:58:28.305Z",
+      "updatedAtUtc": "2026-06-27T05:03:47.584Z",
       "staleAfterMs": 32400000,
       "stale": false,
       "providers": {
@@ -2355,79 +2345,25 @@
         }
       }
     },
-    "2026047": {
-      "marketUsed": "1x2_totals_spread",
-      "confidence": "medium",
-      "probability": 0.367,
-      "probabilities": {
-        "home": 0.367,
-        "draw": 0.291,
-        "away": 0.342
-      },
-      "expectedGoals": {
-        "home": 1.2,
-        "away": 1.15
-      },
-      "totalGoalsLine": 2.38,
-      "goalDifferenceLine": 0.05,
-      "bookmakerCount": 47,
-      "fallbackUsed": true,
-      "topCorrectScores": null,
-      "updatedAtUtc": "2026-06-26T20:58:28.305Z",
-      "staleAfterMs": 32400000,
-      "stale": false,
-      "providers": {
-        "theOddsApi": {
-          "eventId": "e07b1926be5a4d515c7eb108dbcee9c5"
-        }
-      }
-    },
-    "2026048": {
-      "marketUsed": "1x2_totals_spread",
-      "confidence": "medium",
-      "probability": 0.567,
-      "probabilities": {
-        "home": 0.158,
-        "draw": 0.275,
-        "away": 0.567
-      },
-      "expectedGoals": {
-        "home": 0.75,
-        "away": 1.55
-      },
-      "totalGoalsLine": 2.3,
-      "goalDifferenceLine": -0.81,
-      "bookmakerCount": 47,
-      "fallbackUsed": true,
-      "topCorrectScores": null,
-      "updatedAtUtc": "2026-06-26T20:58:28.305Z",
-      "staleAfterMs": 32400000,
-      "stale": false,
-      "providers": {
-        "theOddsApi": {
-          "eventId": "dcff2e31c0bce001a4db5caaf4fa8822"
-        }
-      }
-    },
     "2026059": {
       "marketUsed": "1x2_totals_spread",
       "confidence": "medium",
-      "probability": 0.429,
+      "probability": 0.435,
       "probabilities": {
-        "home": 0.239,
-        "draw": 0.429,
-        "away": 0.332
+        "home": 0.238,
+        "draw": 0.435,
+        "away": 0.327
       },
       "expectedGoals": {
         "home": 0.75,
         "away": 0.9
       },
-      "totalGoalsLine": 1.82,
-      "goalDifferenceLine": -0.13,
-      "bookmakerCount": 46,
+      "totalGoalsLine": 1.81,
+      "goalDifferenceLine": -0.12,
+      "bookmakerCount": 48,
       "fallbackUsed": true,
       "topCorrectScores": null,
-      "updatedAtUtc": "2026-06-26T20:58:28.305Z",
+      "updatedAtUtc": "2026-06-27T05:03:47.584Z",
       "staleAfterMs": 32400000,
       "stale": false,
       "providers": {
@@ -2439,22 +2375,22 @@
     "2026060": {
       "marketUsed": "1x2_totals_spread",
       "confidence": "medium",
-      "probability": 0.814,
+      "probability": 0.825,
       "probabilities": {
-        "home": 0.063,
-        "draw": 0.124,
-        "away": 0.814
+        "home": 0.056,
+        "draw": 0.118,
+        "away": 0.825
       },
       "expectedGoals": {
         "home": 0.55,
-        "away": 2.5
+        "away": 2.65
       },
-      "totalGoalsLine": 3.08,
-      "goalDifferenceLine": -1.91,
-      "bookmakerCount": 46,
+      "totalGoalsLine": 3.17,
+      "goalDifferenceLine": -2.1,
+      "bookmakerCount": 49,
       "fallbackUsed": true,
       "topCorrectScores": null,
-      "updatedAtUtc": "2026-06-26T20:58:28.305Z",
+      "updatedAtUtc": "2026-06-27T05:03:47.584Z",
       "staleAfterMs": 32400000,
       "stale": false,
       "providers": {
@@ -2466,22 +2402,22 @@
     "2026065": {
       "marketUsed": "1x2_totals_spread",
       "confidence": "medium",
-      "probability": 0.508,
+      "probability": 0.499,
       "probabilities": {
-        "home": 0.235,
-        "draw": 0.257,
-        "away": 0.508
+        "home": 0.249,
+        "draw": 0.252,
+        "away": 0.499
       },
       "expectedGoals": {
-        "home": 0.95,
+        "home": 1,
         "away": 1.5
       },
-      "totalGoalsLine": 2.5,
-      "goalDifferenceLine": -0.47,
-      "bookmakerCount": 47,
+      "totalGoalsLine": 2.52,
+      "goalDifferenceLine": -0.46,
+      "bookmakerCount": 49,
       "fallbackUsed": true,
       "topCorrectScores": null,
-      "updatedAtUtc": "2026-06-26T20:58:28.305Z",
+      "updatedAtUtc": "2026-06-27T05:03:47.584Z",
       "staleAfterMs": 32400000,
       "stale": false,
       "providers": {
@@ -2493,22 +2429,22 @@
     "2026066": {
       "marketUsed": "1x2_totals_spread",
       "confidence": "medium",
-      "probability": 0.54,
+      "probability": 0.558,
       "probabilities": {
-        "home": 0.54,
-        "draw": 0.242,
-        "away": 0.218
+        "home": 0.558,
+        "draw": 0.237,
+        "away": 0.206
       },
       "expectedGoals": {
-        "home": 1.55,
-        "away": 0.9
+        "home": 1.6,
+        "away": 0.85
       },
       "totalGoalsLine": 2.46,
-      "goalDifferenceLine": 0.55,
-      "bookmakerCount": 44,
+      "goalDifferenceLine": 0.69,
+      "bookmakerCount": 47,
       "fallbackUsed": true,
       "topCorrectScores": null,
-      "updatedAtUtc": "2026-06-26T20:58:28.305Z",
+      "updatedAtUtc": "2026-06-27T05:03:47.584Z",
       "staleAfterMs": 32400000,
       "stale": false,
       "providers": {
@@ -2520,22 +2456,22 @@
     "2026071": {
       "marketUsed": "1x2_totals_spread",
       "confidence": "medium",
-      "probability": 0.829,
+      "probability": 0.814,
       "probabilities": {
-        "home": 0.057,
-        "draw": 0.115,
-        "away": 0.829
+        "home": 0.064,
+        "draw": 0.122,
+        "away": 0.814
       },
       "expectedGoals": {
         "home": 0.55,
-        "away": 2.7
+        "away": 2.65
       },
-      "totalGoalsLine": 3.25,
-      "goalDifferenceLine": -2.18,
-      "bookmakerCount": 47,
+      "totalGoalsLine": 3.2,
+      "goalDifferenceLine": -2.1,
+      "bookmakerCount": 49,
       "fallbackUsed": true,
       "topCorrectScores": null,
-      "updatedAtUtc": "2026-06-26T20:58:28.305Z",
+      "updatedAtUtc": "2026-06-27T05:03:47.584Z",
       "staleAfterMs": 32400000,
       "stale": false,
       "providers": {
@@ -2547,22 +2483,22 @@
     "2026072": {
       "marketUsed": "1x2_totals_spread",
       "confidence": "medium",
-      "probability": 0.538,
+      "probability": 0.53,
       "probabilities": {
-        "home": 0.538,
-        "draw": 0.293,
-        "away": 0.169
+        "home": 0.53,
+        "draw": 0.297,
+        "away": 0.173
       },
       "expectedGoals": {
         "home": 1.5,
-        "away": 0.8
+        "away": 0.75
       },
-      "totalGoalsLine": 2.31,
-      "goalDifferenceLine": 0.67,
-      "bookmakerCount": 47,
+      "totalGoalsLine": 2.3,
+      "goalDifferenceLine": 0.75,
+      "bookmakerCount": 49,
       "fallbackUsed": true,
       "topCorrectScores": null,
-      "updatedAtUtc": "2026-06-26T20:58:28.305Z",
+      "updatedAtUtc": "2026-06-27T05:03:47.584Z",
       "staleAfterMs": 32400000,
       "stale": false,
       "providers": {
@@ -2579,9 +2515,8 @@
       "error": null
     },
     "oddsApiIo": {
-      "ok": true,
-      "error": null,
-      "skipped": "fresh cache"
+      "ok": false,
+      "error": "No Odds-API.io events matched eligible fixtures."
     }
   },
   "predictionSource": {
@@ -2598,5 +2533,5 @@
       "Odds-API.io"
     ]
   },
-  "predictionsExportedAtUtc": "2026-06-27T00:20:22.617Z"
+  "predictionsExportedAtUtc": "2026-06-27T05:03:48.239Z"
 }
