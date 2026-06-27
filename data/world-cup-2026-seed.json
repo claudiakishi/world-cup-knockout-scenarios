@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "World Cup 2026 Local Tournament File",
-  "updatedAtUtc": "2026-06-27T22:15:54.100Z",
+  "updatedAtUtc": "2026-06-27T23:18:21.129Z",
   "source": {
     "name": "openfootball/worldcup.json",
     "url": "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json",
@@ -2200,8 +2200,8 @@
         "name": "New York/New Jersey (East Rutherford)",
         "city": "New York/New Jersey"
       },
-      "statusShort": "NS",
-      "statusLong": "Not Started",
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
       "home": {
         "id": 260048,
         "name": "Panama",
@@ -2213,8 +2213,8 @@
         "logo": ""
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       }
     },
     {
@@ -2226,8 +2226,8 @@
         "name": "Philadelphia",
         "city": "Philadelphia"
       },
-      "statusShort": "NS",
-      "statusLong": "Not Started",
+      "statusShort": "FT",
+      "statusLong": "Match Finished",
       "home": {
         "id": 260046,
         "name": "Croatia",
@@ -2239,8 +2239,8 @@
         "logo": ""
       },
       "goals": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       }
     }
   ]
